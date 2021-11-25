@@ -1,4 +1,7 @@
-## 🛠Skills
+# Hi there!👋
+## 🦄About me
+I'm cool
+## 🌈Skills
 ### Languages
 ![python](https://img.shields.io/badge/Python-94FFC9?style=for-the-badge&logo=Python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-FBB1D8?style=for-the-badge&logo=C%2b%2b&logoColor=white)
