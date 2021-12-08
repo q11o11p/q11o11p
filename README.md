@@ -1,6 +1,8 @@
 # Hi there!👋
 ## 🦄About me
-I'm cool
+* student
+* freelancer
+* I develop bots and scripts for automating tasks
 ## 🌈Skills
 ### Languages
 ![python](https://img.shields.io/badge/Python-94FFC9?style=for-the-badge&logo=Python&logoColor=white)
@@ -10,8 +12,8 @@ I'm cool
 ![sqlite](https://img.shields.io/badge/SQLITE-ABEDE1?style=for-the-badge&logo=SQLITE&logoColor=white)
 ### Parsing
 ![selenium](https://img.shields.io/badge/Selenium-94FFC9?style=for-the-badge&logo=Selenium&logoColor=white)
-### Bots
-![telebot](https://img.shields.io/badge/Telebot-E8CEED?style=for-the-badge&logoColor=white)
+### My bots
+[![bot](https://img.shields.io/badge/FICLIKER-E8CEED?style=for-the-badge&logo=Telegram)](https://t.me/FiclikerBot)
 ## 🔗Links
 [![telegram](https://img.shields.io/badge/Telegram-ABEDE1?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/d11_11b)
 [![gmail](https://img.shields.io/badge/Gmail-FBB1D8?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:llllq1.1.1.1pllll@gmail.com)
