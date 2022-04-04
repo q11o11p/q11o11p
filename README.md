@@ -1,8 +1,6 @@
 # Hi there!👋
 ## 🦄About me
-* student
-* freelancer
-* I develop bots and scripts for automating tasks
+novice back-end developer
 ## 🌈Skills
 ### Languages
 ![python](https://img.shields.io/badge/Python-94FFC9?style=for-the-badge&logo=Python&logoColor=white)
