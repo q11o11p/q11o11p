@@ -1,4 +1,4 @@
-# Hi there!👋
+# Hi there!
 ## 🦄About me
 I'm a novice back-end developer
 ## 🌈Skills
