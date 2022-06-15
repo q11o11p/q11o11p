@@ -1,6 +1,6 @@
 # Hi there!
 ## 🦄About me
-I'm a novice back-end developer
+I'm a fond of robotics and deep learning
 ## 🌈Skills
 ### Languages: 
 ![haskell](https://img.shields.io/badge/Haskell-E8CEED?style=for-the-badge&logo=haskell&logoColor=983AEE)
