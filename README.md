@@ -1,6 +1,6 @@
 # Hi there!
 ## 🦄About me
-I'm fond of robotics and deep learning
+gOd Of CoDe
 ## 🌈Skills
 ![haskell](https://img.shields.io/badge/Haskell-E8CEED?style=for-the-badge&logo=haskell&logoColor=983AEE)
 ![c](https://img.shields.io/badge/C-F9BDEF?style=for-the-badge&logo=Cloudera&logoColor=FB18C8)
